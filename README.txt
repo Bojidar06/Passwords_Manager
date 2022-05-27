@@ -5,4 +5,4 @@ Passwords Manager Plan
 
 Language: Python3  
 Database: PostgreSql  
-GUI
+GUI: Terminal Menu
