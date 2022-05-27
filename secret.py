@@ -1,0 +1,2 @@
+def secret_pass():
+  return "59ed157819bb055b66242d303c719aa4a41b74c63de6d72a62455a59892af9c1"
